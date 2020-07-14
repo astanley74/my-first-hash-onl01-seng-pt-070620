@@ -1,5 +1,5 @@
 def my_hash
-  your_choice = {"favorite_hockey team" => "San Jose Sharks}"
+  your_choice = {"favorite_hockey team" => "San Jose Sharks" }
 end
 
 
